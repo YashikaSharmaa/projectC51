@@ -1,0 +1,30 @@
+h1 {
+    color:#1e90ff; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color:#f5f5f5;
+    text-align: center;
+    background-color: #ff4500;
+}
+h3 {
+    color: #800080;
+    justify-content: right;
+}
+h4 {
+    color:#008080;
+    text-align: justify;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    justify-content: space-evenly;
+}
+
+.footer {
+    justify-content: end;
+}
